@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-ph@9j=i2c&oku^ag&*u^snmw35v-*n!wfh1bte+lc*20zeil3#
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'https://djangogirlsblog.pythonanywhere.com/',
+    'djangogirlsblog.pythonanywhere.com',
 ]
 
 
